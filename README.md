@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/Venom09-z">
+<a href="https://priyanka-portfolio09.netlify.app/">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:6B4FA0&height=260&section=header&text=Priyanka%20Panigrahi&fontSize=46&fontColor=ffffff&desc=AI/ML%20Engineer%20•%20Data%20Analytics%20•%20Generative%20AI&descAlignY=80&descSize=16&animation=fadeIn" width="100%"/>
 </a>
 
@@ -13,6 +13,8 @@
 
 <br/><br/>
 
+<a href="https://priyanka-portfolio09.netlify.app/"><img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-priyanka--portfolio09.netlify.app-2ee6d6?style=for-the-badge&labelColor=000000" /></a>
+<br/><br/>
 <a href="mailto:amour.priyanka2003@gmail.com"><img src="https://img.shields.io/badge/BUILDING_IN_PUBLIC_—_AI_%2B_DATA_PROJECTS_→-e05d6f?style=for-the-badge" /></a>
 
 </div>
